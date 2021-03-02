@@ -1,1 +1,1 @@
-Creo docu1.txt
+Hago cambios en docu1.txt y los validos.
